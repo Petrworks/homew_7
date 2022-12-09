@@ -1,4 +1,4 @@
-const year = +prompt("Введіть ваш рік народження");
+const year = prompt("Введіть ваш рік народження");
 const city = prompt("Введіть місто в якому ви живете");
 const sport = prompt("Введіть ваш улюбленний вид спорту");
 
