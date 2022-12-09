@@ -51,7 +51,7 @@ switch (sport) {
     break;
 
   default: {
-    sportMessage = `Ти живеш у місті ${city}`;
+    sportMessage = `Будь який спорт це чудово`;
   }
 }
 
